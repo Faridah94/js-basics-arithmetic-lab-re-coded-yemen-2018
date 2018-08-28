@@ -14,4 +14,4 @@ const randomNumber = Math.floor(Math.random()*20) + 1;
 
 const randomInteger =Math.floor(randomNumber);
 
-const randomUserID = Math.ceil(randomInteger ) * Math.random()*100000000) + 1  );
+const randomUserID = Math.ceil(newID  ) ;
